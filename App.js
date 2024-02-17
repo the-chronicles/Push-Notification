@@ -93,7 +93,7 @@ export default function App() {
       body: JSON.stringify({
         to: "ExponentPushToken[]",
         title: "Test - sent from a device!",
-        body: "This is a test", 
+        body: "This is a test!", 
       }),
     });
   }
